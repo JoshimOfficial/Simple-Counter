@@ -1,0 +1,36 @@
+.header{
+    padding: 5px;
+}
+
+.counter {
+    font-size: 100px;
+}
+
+.display_button_sec {
+    padding: 5px;
+    border: 2px solid #c9c9c9;
+    border-radius: 5px;
+    width: 950px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.head_text{
+    font-size: 50px;
+}
+.decrease {
+    float: left;
+}
+
+.increase {
+    float: right;
+}
+
+.container.text-center {
+    display: flex;
+    justify-content: center;
+}
+
+.main.text-center {
+    margin-top: 150px;
+}
